@@ -6,11 +6,11 @@
 
 # <p align="center"><strong><span style="font-size: 24px;">Hi, I'm [Ali Raza](https://aliraza.osmicsoft.com) 👋</span></strong></p>
 
-<img src="https://komarev.com/ghpvc/?username=CraftedByAli&label=Profile%20views&color=10f914&style=plastic" alt="CraftedByAli" /> <a href="https://instagram.com/_aliraxa_" target="blank"><img src="https://img.shields.io/badge/Instagram-%40CraftedByAli-red&logo=instagram&logoColor=white?style=plastic&logo=instagram" alt="CraftedByAli" /></a> <img src="https://img.shields.io/github/languages/count/CraftedByAli/sting?logo=github&style=plastic" alt="CraftedByAli" /></a> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-5%20Year-green?&style=plastic&logo=ruby&logoColor=red" /> <img src="https://img.shields.io/badge/Build-passing-green?style=plastic&logo=github"/> <img src="https://img.shields.io/badge/Portfolio-Ali%20Raza-brightgreen?style=plastic&logo=Republic%20of%20Gamers&logoColor=FF0029"/>
+<img src="https://komarev.com/ghpvc/?username=CraftedByAli&label=Profile%20views&color=10f914&style=plastic" alt="CraftedByAli" /> <a href="https://instagram.com/CraftedByAliRaza" target="blank"><img src="https://img.shields.io/badge/Instagram-%40CraftedByAliRaza-red&logo=instagram&logoColor=white?style=plastic&logo=instagram" alt="CraftedByAliRaza" /></a> <img src="https://img.shields.io/github/languages/count/CraftedByAli/sting?logo=github&style=plastic" alt="CraftedByAli" /></a> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-5%20Year-green?&style=plastic&logo=ruby&logoColor=red" /> <img src="https://img.shields.io/badge/Build-passing-green?style=plastic&logo=github"/> <img src="https://img.shields.io/badge/Portfolio-Ali%20Raza-brightgreen?style=plastic&logo=Republic%20of%20Gamers&logoColor=FF0029"/>
 
 With 5+ years of experience in software development, my main focus is on Ruby on Rails. I’m also skilled in other frameworks like Laravel and WordPress, and have hands-on experience with several programming languages, including Ruby, PHP, Python, Java, and JavaScript.
 
-## <a href="https://www.upwork.com/freelancers/alirazayasin" target="_blank"><img src="https://simpleicons.org/icons/upwork.svg" data-svg="https://simpleicons.org/icons/upwork.svg" alt="Upwork" width="50" /></a>
+## <a href="https://www.upwork.com/freelancers/alirazayasin" target="_blank"><img src="https://cdn.simpleicons.org/upwork/6FDA44" data-svg="https://cdn.simpleicons.org/upwork/6FDA44" alt="Upwork" width="50" /></a>
 
 # 💻 Full Stack Developer
 
