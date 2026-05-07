@@ -1,106 +1,67 @@
-<p align="center">
-  <a href="https://aliraza.osmicsoft.com" target="_blank">
-  <img src="https://aliraza.osmicsoft.com/images/logo/A.svg" alt="Logo" width="200"/>
+<div align="center">
+  <a href="https://aliraza.osmicsoft.com" target="_blank" rel="noreferrer noopener">
+    <img src="https://aliraza.osmicsoft.com/images/logo/A.svg" alt="Ali Raza logo" width="140" />
   </a>
-</p>
 
-# <p align="center"><strong><span style="font-size: 24px;">Hi, I'm [Ali Raza](https://aliraza.osmicsoft.com) 👋</span></strong></p>
+  <h1>Ali Raza</h1>
 
-<img src="https://komarev.com/ghpvc/?username=CraftedByAli&label=Profile%20views&color=10f914&style=plastic" alt="CraftedByAli" /> <a href="https://instagram.com/_aliraxa_" target="blank"><img src="https://img.shields.io/badge/Instagram-%40CraftedByAli-red&logo=instagram&logoColor=white?style=plastic&logo=instagram" alt="CraftedByAli" /></a> <img src="https://img.shields.io/github/languages/count/CraftedByAli/sting?logo=github&style=plastic" alt="CraftedByAli" /></a> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-5%20Year-green?&style=plastic&logo=ruby&logoColor=red" /> <img src="https://img.shields.io/badge/Build-passing-green?style=plastic&logo=github"/> <img src="https://img.shields.io/badge/Portfolio-Ali%20Raza-brightgreen?style=plastic&logo=Republic%20of%20Gamers&logoColor=FF0029"/>
+  <p><strong>Freelance Full-Stack Developer | Ruby on Rails Partner for Founders & SaaS Teams</strong></p>
 
-With 5+ years of experience in software development, my main focus is on Ruby on Rails. I’m also skilled in other frameworks like Laravel and WordPress, and have hands-on experience with several programming languages, including Ruby, PHP, Python, Java, and JavaScript.
+  <p>
+    I help founders and SaaS teams turn ideas into reliable products, from MVP buildouts and new features to
+    performance improvements and ongoing maintenance. My core expertise is Ruby on Rails, supported by hands-on
+    experience across Laravel, WordPress, modern JavaScript, and practical DevOps workflows.
+  </p>
 
-## <a href="https://www.upwork.com/freelancers/alirazayasin" target="_blank"><img src="https://simpleicons.org/icons/upwork.svg" data-svg="https://simpleicons.org/icons/upwork.svg" alt="Upwork" width="50" /></a>
+  <p>
+    <a href="https://aliraza.osmicsoft.com" target="_blank" rel="noreferrer noopener">Portfolio</a>
+    &nbsp;•&nbsp;
+    <a href="https://www.upwork.com/freelancers/alirazayasin" target="_blank" rel="noreferrer noopener">Upwork</a>
+  </p>
+</div>
 
-# 💻 Full Stack Developer
+## About
 
-## Languages
+With 5+ years of experience in software development, I focus on shipping SaaS products that are useful, scalable,
+and ready to grow. I regularly support early-stage launches, feature development, product refactors, bug fixing,
+and long-term product maintenance.
 
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+## How I Help
 
-## Full Stack Frameworks
+- Ruby on Rails development for SaaS products, internal tools, and customer-facing platforms
+- MVP planning and buildout for early-stage founders
+- Feature development, bug fixing, and codebase cleanup
+- API development, third-party integrations, and workflow automation
+- Frontend implementation with React, TypeScript, JavaScript, and modern CSS
+- Performance tuning, database optimization, and production stability work
+- Deployment and infrastructure support using Docker, Nginx, Apache, AWS, DigitalOcean, Heroku, and Netlify
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+## Core Stack
 
-## Frontend Technologies
+| Area | Technologies |
+| --- | --- |
+| Languages | Ruby, JavaScript, TypeScript, PHP, Python, Java, C++ |
+| Frameworks | Ruby on Rails, Laravel, WordPress, React, Node.js, Express.js, FastAPI |
+| Data | PostgreSQL, MySQL, MongoDB, Redis |
+| DevOps | Docker, Nginx, Apache, AWS, DigitalOcean, Heroku, Netlify |
+| Tools | Git, Postman, Insomnia, Jira |
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic_UI_React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+## Why Founders Hire Me
 
-## Backend Technologies
+- Clear communication and predictable delivery
+- Practical solutions that fit the product stage and business goal
+- Comfortable moving between product thinking and implementation
+- Able to work independently or as an extension of the team
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+## Typical SaaS Work
 
-## Database Technologies
+- MVP builds and launch support
+- New feature sprints for active products
+- Subscription app improvements, integrations, and automation
+- Legacy app cleanup and modernization
+- Ongoing maintenance for live SaaS products
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+## Connect
 
-## Cloud Technologies
-
-![Namecheap](https://img.shields.io/badge/Namecheap-DE3E2A?style=for-the-badge&logo=namecheap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-
-## DevOps Technologies
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-## Tools
-
-![GIT](https://img.shields.io/badge/GIT-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=CraftedByAli&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CraftedByAli&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=CraftedByAli&theme=react&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=CraftedByAli&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=CraftedByAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=CraftedByAli&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+If you're a founder or SaaS team looking for a reliable product partner,
+reach out through my [portfolio](https://aliraza.osmicsoft.com) or [Upwork](https://www.upwork.com/freelancers/alirazayasin).
